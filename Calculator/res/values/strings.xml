@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, CalculatorActivity!</string>
+    <string name="app_name">Calculator</string>
+    <string name="app_name2">CalculatorHistory</string>   
+    <string name="calcSeven">7</string>
+    <string name="calcEight">8</string>
+    <string name="calcNine">9</string>
+    <string name="calcDiv">÷</string>
+    <string name="calcSix">6</string>
+    <string name="calcFive">5</string>
+    <string name="calcFour">4</string>
+    <string name="calcMult">×</string> 
+    <string name="calcOne">1</string>
+    <string name="calcTwo">2</string>
+    <string name="calcThree">3</string>
+    <string name="calcMinus">-</string> 
+    <string name="calcZero">0</string>
+    <string name="calcDot">.</string>
+    <string name="calcEqual">=</string>
+    <string name="calcPlus">+</string>        
+    <string name="btnclr">C</string>        
+    <string name="btnmplus">M+</string>        
+    <string name="btnms">MS</string>        
+    <string name="btnmminus">M-</string>  
+    <string name="btnmr">MR</string>    
+    <string name="btnmc">MC</string>   
+    <string name="btnhistory">HISTORY</string>        
+    <string name="btndel">del</string>
+    <string name="decimalerror">decimal number length exceeded maximum length</string>
+    <string name="numlengtherror">number length exceeded maximum length</string> 
+    <string name="invalid">Invalid format</string>   
+    <color name="skyblue">#123456 </color>
+    <color name="blackshade">#191919</color>
+
+</resources>
